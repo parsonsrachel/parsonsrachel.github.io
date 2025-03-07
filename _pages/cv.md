@@ -25,15 +25,6 @@ Work experience
   * Computational Biology Research Laboratory, University of Connecticut, Storrs, CT
   * Duties included: Investigated the impact of gene duplication and loss on the accuracy of specialized estimation methods
   * Advisor: Dr. Mukul Bansal
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -49,4 +40,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of CRA Grad Cohort for Women
+* Mentored undergraduate student (Spring 2024)

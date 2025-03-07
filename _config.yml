@@ -22,12 +22,12 @@ repository               : "parsonsrachel/parsonsrachel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Rachel Parsons"
   pronouns         : "she/her"  
-  bio              : "I am a computer science PhD student at the University of Maryland College Park."
+  bio              : "Computer Science PhD student"
   location         : "College Park, MD"
-  employer         : "University of Maryland, College Park"
+  employer         : "University of Maryland"
   uri              : "parsonsrachel.github.io"
   email            : "rparsons@umd.edu" 
 

@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Maryland, College Park, 2028 (expected)
+* B.S.E. in Computer Science and Engineering, University of Connecticut, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Graduate Research Assistant
+  * Molloy Lab, University of Maryland, College Park, MD
+  * Duties includes: Developing an algorithm for utilizing retrotransposons in phylogeny estimation
+  * Advisor: Dr. Erin Molloy
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021 - Summer 2023: Undergraduate Research Assistant
+  * Computational Biology Research Laboratory, University of Connecticut, Storrs, CT
+  * Duties included: Investigated the impact of gene duplication and loss on the accuracy of specialized estimation methods
+  * Advisor: Dr. Mukul Bansal
   
 Skills
 ======
@@ -45,12 +39,6 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
